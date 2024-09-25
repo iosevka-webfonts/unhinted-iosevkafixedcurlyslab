@@ -1,4 +1,4 @@
-# Unhinted Iosevkafixedcurlyslab WebFont 31.7.0
+# Unhinted Iosevkafixedcurlyslab WebFont 31.7.1
 
 ## How to use
 
